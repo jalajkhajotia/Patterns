@@ -1,0 +1,9 @@
+E:\VisualStudio 2012\NewEntity_Repository\Entity\bin\Debug\Entity.exe.config
+E:\VisualStudio 2012\NewEntity_Repository\Entity\bin\Debug\Entity.exe
+E:\VisualStudio 2012\NewEntity_Repository\Entity\bin\Debug\Entity.pdb
+E:\VisualStudio 2012\NewEntity_Repository\Entity\bin\Debug\EntityFramework.dll
+E:\VisualStudio 2012\NewEntity_Repository\Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio 2012\NewEntity_Repository\Entity\bin\Debug\EntityFramework.xml
+E:\VisualStudio 2012\NewEntity_Repository\Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio 2012\NewEntity_Repository\Entity\obj\Debug\Entity.exe
+E:\VisualStudio 2012\NewEntity_Repository\Entity\obj\Debug\Entity.pdb

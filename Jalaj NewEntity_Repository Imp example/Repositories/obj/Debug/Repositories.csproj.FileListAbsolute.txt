@@ -1,0 +1,10 @@
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\bin\Debug\Repositories.exe.config
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\bin\Debug\Repositories.exe
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\bin\Debug\Repositories.pdb
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\bin\Debug\Entity.exe
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\bin\Debug\EntityFramework.dll
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\bin\Debug\Entity.pdb
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\bin\Debug\EntityFramework.xml
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\obj\Debug\Repositories.exe
+E:\VisualStudio 2012\NewEntity_Repository\Repositories\obj\Debug\Repositories.pdb

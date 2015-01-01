@@ -1,0 +1,19 @@
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\NewEntity_Repository.exe.config
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\NewEntity_Repository.exe
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\NewEntity_Repository.pdb
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\Entity.exe
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\EntityFramework.dll
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\Repositories.exe
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\Entity.pdb
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\Repositories.pdb
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\EntityFramework.xml
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\obj\Debug\RepositoryPattern.csprojResolveAssemblyReference.cache
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\obj\Debug\NewEntity_Repository.exe
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\obj\Debug\NewEntity_Repository.pdb
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\Ninject.dll
+E:\VisualStudio 2012\NewEntity_Repository\NewEntity_Repository\bin\Debug\Ninject.xml
+E:\VisualStudio 2012\Jalaj NewEntity_Repository Imp example\NewEntity_Repository\bin\Debug\NewEntity_Repository.exe.config
+E:\VisualStudio 2012\Jalaj NewEntity_Repository Imp example\NewEntity_Repository\obj\Debug\NewEntity_Repository.exe
+E:\VisualStudio 2012\Jalaj NewEntity_Repository Imp example\NewEntity_Repository\obj\Debug\NewEntity_Repository.pdb
